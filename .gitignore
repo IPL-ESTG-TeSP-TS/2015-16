@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TeSP-TS-2015-16/.vs/TeSP-TS-2015-16/v14
+/TeSP-TS-2015-16/Worksheet1.Exercise1/bin/Debug
+/TeSP-TS-2015-16/Worksheet1.Exercise1/obj/Debug
+/TeSP-TS-2015-16/Worksheet1.Exercise1.Extra2/obj/Debug
+/TeSP-TS-2015-16/Worksheet1.Exercise1.Extra2/bin/Debug
+/TeSP-TS-2015-16/Worksheet1.Exercise1.Extra1/obj/Debug
+/TeSP-TS-2015-16/Worksheet1.Exercise1.Extra1/bin/Debug
