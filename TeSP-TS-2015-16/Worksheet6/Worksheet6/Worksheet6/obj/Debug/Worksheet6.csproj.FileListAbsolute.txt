@@ -1,0 +1,18 @@
+C:\Users\mail\Documents\Visual Studio 2015\Projects\TeSP-TS\Worksheet6\Worksheet6\bin\Debug\Worksheet6.exe.config
+C:\Users\mail\Documents\Visual Studio 2015\Projects\TeSP-TS\Worksheet6\Worksheet6\bin\Debug\Worksheet6.exe
+C:\Users\mail\Documents\Visual Studio 2015\Projects\TeSP-TS\Worksheet6\Worksheet6\bin\Debug\Worksheet6.pdb
+C:\Users\mail\Documents\Visual Studio 2015\Projects\TeSP-TS\Worksheet6\Worksheet6\obj\Debug\Worksheet6.csprojResolveAssemblyReference.cache
+C:\Users\mail\Documents\Visual Studio 2015\Projects\TeSP-TS\Worksheet6\Worksheet6\obj\Debug\Worksheet6.Form1.resources
+C:\Users\mail\Documents\Visual Studio 2015\Projects\TeSP-TS\Worksheet6\Worksheet6\obj\Debug\Worksheet6.Properties.Resources.resources
+C:\Users\mail\Documents\Visual Studio 2015\Projects\TeSP-TS\Worksheet6\Worksheet6\obj\Debug\Worksheet6.csproj.GenerateResource.Cache
+C:\Users\mail\Documents\Visual Studio 2015\Projects\TeSP-TS\Worksheet6\Worksheet6\obj\Debug\Worksheet6.exe
+C:\Users\mail\Documents\Visual Studio 2015\Projects\TeSP-TS\Worksheet6\Worksheet6\obj\Debug\Worksheet6.pdb
+C:\Users\mail\Downloads\Worksheet6\Worksheet6\Worksheet6\bin\Debug\Worksheet6.exe.config
+C:\Users\mail\Downloads\Worksheet6\Worksheet6\Worksheet6\obj\Debug\Worksheet6.exe
+C:\Users\mail\Downloads\Worksheet6\Worksheet6\Worksheet6\obj\Debug\Worksheet6.pdb
+C:\Users\mail\Downloads\Worksheet6\Worksheet6\Worksheet6\bin\Debug\Worksheet6.exe
+C:\Users\mail\Downloads\Worksheet6\Worksheet6\Worksheet6\bin\Debug\Worksheet6.pdb
+C:\Users\mail\Downloads\Worksheet6\Worksheet6\Worksheet6\obj\Debug\Worksheet6.csprojResolveAssemblyReference.cache
+C:\Users\mail\Downloads\Worksheet6\Worksheet6\Worksheet6\obj\Debug\Worksheet6.Form1.resources
+C:\Users\mail\Downloads\Worksheet6\Worksheet6\Worksheet6\obj\Debug\Worksheet6.Properties.Resources.resources
+C:\Users\mail\Downloads\Worksheet6\Worksheet6\Worksheet6\obj\Debug\Worksheet6.csproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+C:\Users\mail\Downloads\Worksheet5\Worksheet5\Exercise2\bin\Debug\Exercise2.exe.config
+C:\Users\mail\Downloads\Worksheet5\Worksheet5\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\mail\Downloads\Worksheet5\Worksheet5\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\mail\Downloads\Worksheet5\Worksheet5\Exercise2\obj\Debug\Exercise2.Properties.Resources.resources
+C:\Users\mail\Downloads\Worksheet5\Worksheet5\Exercise2\obj\Debug\Exercise2.csproj.GenerateResource.Cache
+C:\Users\mail\Downloads\Worksheet5\Worksheet5\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\mail\Downloads\Worksheet5\Worksheet5\Exercise2\obj\Debug\Exercise2.pdb
