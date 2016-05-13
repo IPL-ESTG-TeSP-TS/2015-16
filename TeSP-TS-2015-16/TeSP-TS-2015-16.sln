@@ -30,6 +30,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Worksheet5-Exercise2", "Wor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Worksheet6", "Worksheet6\Worksheet6\Worksheet6\Worksheet6.csproj", "{5DCE65E5-BC0B-42D6-BC17-2FA7097BA112}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W7-Client", "W7-Client\W7-Client.csproj", "{9C725490-8770-48CC-A690-7231DD5DA172}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W7-Server", "W7-Server\W7-Server.csproj", "{3BA54A40-7599-4320-B219-3C3DAAB42759}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,6 +76,14 @@ Global
 		{5DCE65E5-BC0B-42D6-BC17-2FA7097BA112}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DCE65E5-BC0B-42D6-BC17-2FA7097BA112}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DCE65E5-BC0B-42D6-BC17-2FA7097BA112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C725490-8770-48CC-A690-7231DD5DA172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C725490-8770-48CC-A690-7231DD5DA172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C725490-8770-48CC-A690-7231DD5DA172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C725490-8770-48CC-A690-7231DD5DA172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BA54A40-7599-4320-B219-3C3DAAB42759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA54A40-7599-4320-B219-3C3DAAB42759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA54A40-7599-4320-B219-3C3DAAB42759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA54A40-7599-4320-B219-3C3DAAB42759}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

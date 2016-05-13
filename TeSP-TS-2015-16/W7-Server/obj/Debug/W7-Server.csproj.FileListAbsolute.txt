@@ -1,0 +1,8 @@
+C:\Users\Ricardo\Development\ESTG\Aulas\Worksheet7\W7-Server\bin\Debug\W7-Server.exe.config
+C:\Users\Ricardo\Development\ESTG\Aulas\Worksheet7\Worksheet7\W7-Server\bin\Debug\W7-Server.exe.config
+C:\Users\Ricardo\Development\ESTG\Aulas\Worksheet7\Worksheet7\W7-Server\bin\Debug\W7-Server.exe
+C:\Users\Ricardo\Development\ESTG\Aulas\Worksheet7\Worksheet7\W7-Server\bin\Debug\W7-Server.pdb
+C:\Users\Ricardo\Development\ESTG\Aulas\Worksheet7\Worksheet7\W7-Server\bin\Debug\ProtocolSI.dll
+C:\Users\Ricardo\Development\ESTG\Aulas\Worksheet7\Worksheet7\W7-Server\obj\Debug\W7-Server.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Development\ESTG\Aulas\Worksheet7\Worksheet7\W7-Server\obj\Debug\W7-Server.exe
+C:\Users\Ricardo\Development\ESTG\Aulas\Worksheet7\Worksheet7\W7-Server\obj\Debug\W7-Server.pdb

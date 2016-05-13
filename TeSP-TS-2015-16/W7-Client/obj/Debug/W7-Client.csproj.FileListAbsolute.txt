@@ -1,0 +1,6 @@
+C:\Users\Ricardo\Development\ESTG\Aulas\Worksheet7\Worksheet7\W7-Client\bin\Debug\W7-Client.exe.config
+C:\Users\Ricardo\Development\ESTG\Aulas\Worksheet7\Worksheet7\W7-Client\bin\Debug\W7-Client.exe
+C:\Users\Ricardo\Development\ESTG\Aulas\Worksheet7\Worksheet7\W7-Client\bin\Debug\W7-Client.pdb
+C:\Users\Ricardo\Development\ESTG\Aulas\Worksheet7\Worksheet7\W7-Client\bin\Debug\ProtocolSI.dll
+C:\Users\Ricardo\Development\ESTG\Aulas\Worksheet7\Worksheet7\W7-Client\obj\Debug\W7-Client.exe
+C:\Users\Ricardo\Development\ESTG\Aulas\Worksheet7\Worksheet7\W7-Client\obj\Debug\W7-Client.pdb
